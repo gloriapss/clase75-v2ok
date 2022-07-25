@@ -1,2 +1,2 @@
-# clase75-v2ok
-clase75v2ok
+# Biblioteca digital-v2-PRO-C74
+Código de solución para C74
